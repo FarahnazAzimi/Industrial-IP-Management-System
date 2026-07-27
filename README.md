@@ -1,29 +1,17 @@
 # Industrial-IP-Management-System
-Industrial HMI for IP management, database logging and image upload using LabVIEW, Python and SQL.
+## Overview
+
 This project is an industrial Human Machine Interface (HMI) developed using LabVIEW and Python.
 
-The system allows operators to:
+The system provides a graphical interface for managing IP addresses of industrial devices.
 
-• Change the IP address of industrial devices
+Main features include:
 
-• Store IP history in SQL Database
+- User login
+- IP address configuration
+- SQL database logging
+- Image upload
+- Image information storage
+- Activity logging
 
-• Upload images
-
-• Store image metadata
-
-• Login to the system
-
-• Monitor all operations through a graphical interface
-
-Technologies:
-
-LabVIEW
-
-Python
-
-SQL Database
-
-TCP/IP
-
-Windows
+This project was developed as part of an industrial automation internship.
